@@ -1,0 +1,26 @@
+teacher:
+  id: 1
+  name: 张三
+  address:
+    id: 10
+    province: 湖北
+    city: 襄阳
+    content: 湖北-襄阳
+  clsList:
+    - id: 1000
+      name: ST501
+      studentList:
+        - id: 1001
+          name: Mary
+          address:
+            id: 01
+            province: 湖北
+            city: 襄阳
+            content: 湖北-襄阳
+        - id: 1002
+          name: Jack
+          address:
+            id: 02
+            province: 河南
+            city: 南阳
+            content: 河南-南阳
